@@ -12,11 +12,18 @@
 
 <p>
 	🔭 I’m currently working on <a href="https://github.com/Minty-Labs/Giver-of-Head-Pats" target="_blank">Giver of Head Pats</a>, <a href="https://github.com/Minty-Labs/Michiru" target="_blank">Michiru</a>, and <a href="https://github.com/MintLily/VRStartAssistant" target="_blank">VRStartAssistant</a><br>
-	🌱 I’m currently learning <b>various home lab things</b>, and maybe some TypeScript soon™<br>
+	🌱 I’m currently learning <b>various home lab things</b> og norsk. Ikke spør meg hvorfor.<br>
 	👯 I’m currently collaborating on <i>nothing at the moment</i><br>
 	👨‍💻 Personal projects are available <a href="https://github.com/MintLily?tab=repositories" target="_blank">here</a>, the rest are available in the <a href="https://github.com/Minty-Labs" target="_blank">Minty Labs</a> Organization<br>
 	📜Some notable projects: <a href="https://github.com/Minty-Labs/WindowsXSO" target="_blank">WindowsXSO</a>, <a href="https://github.com/MintLily/Dark-Vanilla" target="_blank">Dark Vanilla</a>, <a href="https://github.com/MintLily/VRStartAssistant" target="_blank">VRStartAssistant</a>, <a href="https://github.com/Minty-Labs/PaperUpdater" target="_blank">PaperUpdater</a>, <a href="https://github.com/Minty-Labs/Unity-Tools" target="_blank">Unity Tools</a> (Snapshot, ZipImporter, Animation Toggle Generator), <a href="https://github.com/MintLily/BSLegacyUtil" target="_blank">BSLegacyUtil <small>(EOL)</small></a><br>
 	⚡Fun fact <b>I love head pats and cuddles</b><br>
+</p>
+
+<h3 align="left">Languages</h3>
+<p align="left">
+	<img align="center" src="https://mintlily.lgbt/newwebsite/assets/css/flag-icons/flags/4x3/us.svg" alt="English (US)" height="40" width="30" /> &nbsp;
+	<img align="center" src="https://mintlily.lgbt/newwebsite/assets/css/flag-icons/flags/4x3/no.svg" alt="Norsk (bokmål)" height="40" width="30" /> &nbsp;
+	<img align="center" src="https://mintlily.lgbt/newwebsite/assets/css/flag-icons/flags/4x3/mx.svg" alt="Español (México / América Latina)" height="40" width="30" />
 </p>
 
 <h3 align="left">Connect with me</h3>
@@ -41,9 +48,8 @@
 	&nbsp;<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 	&nbsp;<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://img.mili.lgbt/Illustrator.png" alt="illustrator" width="40" height="40"/></a>
 	&nbsp;<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://img.mili.lgbt/Photoshop.png" alt="photoshop" width="40" height="40"/></a>
-	&nbsp;<a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
 	&nbsp;<a href="https://jb.gg/OpenSourceSupport?ref=GitHub%3A%20%40MintLily" target="_blank" rel="noreferrer"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/Rider_icon.svg" alt="Rider" width="40" height="40"/></a>
-	&nbsp;<a href="https://jb.gg/OpenSourceSupport?ref=GitHub%3A%20%40MintLily" target="_blank" rel="noreferrer"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/dotPeek_icon.svg" alt="dotPeek" width="40" height="40"/></a>
+	&nbsp;<a href="https://jb.gg/OpenSourceSupport?ref=GitHub%3A%20%40MintLily" target="_blank" rel="noreferrer"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg" alt="WebStorm" width="40" height="40"/></a>
 	&nbsp;<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="VSCode" width="40" height="40"/></a>
 	<br />
 	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
