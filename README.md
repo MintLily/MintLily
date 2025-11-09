@@ -15,15 +15,14 @@
 	🌱 I’m currently learning <b>various home lab things</b> og norsk. Ikke spør meg hvorfor.<br>
 	👯 I’m currently collaborating on <i>nothing at the moment</i><br>
 	👨‍💻 Personal projects are available <a href="https://github.com/MintLily?tab=repositories" target="_blank">here</a>, the rest are available in the <a href="https://github.com/Minty-Labs" target="_blank">Minty Labs</a> Organization<br>
-	📜Some notable projects: <a href="https://github.com/Minty-Labs/WindowsXSO" target="_blank">WindowsXSO</a>, <a href="https://github.com/MintLily/Dark-Vanilla" target="_blank">Dark Vanilla</a>, <a href="https://github.com/MintLily/VRStartAssistant" target="_blank">VRStartAssistant</a>, <a href="https://github.com/Minty-Labs/PaperUpdater" target="_blank">PaperUpdater</a>, <a href="https://github.com/Minty-Labs/Unity-Tools" target="_blank">Unity Tools</a> (Snapshot, ZipImporter, Animation Toggle Generator), <a href="https://github.com/MintLily/BSLegacyUtil" target="_blank">BSLegacyUtil <small>(EOL)</small></a><br>
+	📜Some notable projects: <a href="https://github.com/Minty-Labs/WindowsXSO" target="_blank">WindowsXSO</a>, <a href="https://github.com/MintLily/Dark-Vanilla" target="_blank">Dark Vanilla <small>(hiatus)</small></a>, <a href="https://github.com/MintLily/VRStartAssistant" target="_blank">VRStartAssistant</a>, <a href="https://github.com/Minty-Labs/PaperUpdater" target="_blank">PaperUpdater <small>(EOL)</small></a>, <a href="https://github.com/Minty-Labs/Unity-Tools" target="_blank">Unity Tools</a> (Snapshot, ZipImporter, <s>Animation Toggle Generator</s>), <a href="https://github.com/MintLily/BSLegacyUtil" target="_blank">BSLegacyUtil <small>(EOL)</small></a><br>
 	⚡Fun fact <b>I love head pats and cuddles</b><br>
 </p>
 
 <h3 align="left">Languages</h3>
 <p align="left">
-	<img align="center" src="https://mintlily.lgbt/newwebsite/assets/css/flag-icons/flags/4x3/us.svg" alt="English (US)" height="40" width="30" /> &nbsp;
-	<img align="center" src="https://mintlily.lgbt/newwebsite/assets/css/flag-icons/flags/4x3/no.svg" alt="Norsk (bokmål)" height="40" width="30" /> &nbsp;
-	<img align="center" src="https://mintlily.lgbt/newwebsite/assets/css/flag-icons/flags/4x3/mx.svg" alt="Español (México / América Latina)" height="40" width="30" />
+	<img align="center" src="https://mintlily.lgbt/assets/css/flag-icons/flags/4x3/us.svg" alt="English (US)" height="40" width="30" /> &nbsp;
+	<img align="center" src="https://mintlily.lgbt/assets/css/flag-icons/flags/4x3/no.svg" alt="Norsk (bokmål)" height="40" width="30" />
 </p>
 
 <h3 align="left">Connect with me</h3>
