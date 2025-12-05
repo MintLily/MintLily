@@ -71,9 +71,9 @@
 <br />
 
 <p align="center"><br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mintlily&count_private=true&show_icons=true&theme=dracula&title_color=EECCE0&text_color=eeeeee&bg_color=191F22&hide_border=true&locale=en&layout=compact" alt="mintlily" />
+    <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mintlily&count_private=true&show_icons=true&theme=dracula&title_color=EECCE0&text_color=eeeeee&bg_color=191F22&hide_border=true&locale=en&layout=compact" alt="mintlily" />
     <br />
     <img src="https://github-readme-stats.vercel.app/api?username=mintlily&count_private=true&show_icons=false&theme=dracula&title_color=EECCE0&text_color=eeeeee&bg_color=191F22&hide_border=true&locale=en" alt="mintlily" />
-    <br />
+    <br />-->
     <img src="https://komarev.com/ghpvc/?username=mintlily&label=Profile%20views&color=906D92&style=flat-square" alt="mintlily" />
 </p>
