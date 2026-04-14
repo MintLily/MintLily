@@ -39,9 +39,9 @@
 
 <h3 align="left">Programs/Tools, Languages, Operating Systems</h3>
 <p>
-	<img src="https://skillicons.dev/icons?i=blender,unity,illustrator,photoshop,rider,webstorm,visualstudio" />
+	<img src="https://skillicons.dev/icons?i=blender,unity,illustrator,photoshop,rider,webstorm,visualstudio,androidstudio" />
 	<br />
-	<img src="https://skillicons.dev/icons?i=cs,html,css,javascript" />
+	<img src="https://skillicons.dev/icons?i=cs,html,css,javascript,kotlin" />
 	<br />
 	<img src="https://skillicons.dev/icons?i=windows,linux" />
 </p>
