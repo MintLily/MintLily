@@ -20,10 +20,20 @@
 </p>
 
 <h3 align="left">Languages</h3>
-<p align="left">
-	<img align="center" src="https://raw.githubusercontent.com/MintLily/MintLily/refs/heads/master/assets/us.svg" alt="English (US)" height="50" width="40" /> &nbsp;
-	<img align="center" src="https://raw.githubusercontent.com/MintLily/MintLily/refs/heads/master/assets/no.svg" alt="Norsk (bokmål)" height="50" width="40" />
-</p>
+<table>
+	<tr>
+		<td align="center"><b>Main</b></td>
+		<td align="center"><b>Learning</b></td>
+	</tr>
+	<tr>
+		<td align="center"><img align="center" src="https://raw.githubusercontent.com/MintLily/MintLily/refs/heads/master/assets/us.svg" alt="English (US)" height="50" width="40" /></td>
+		<td align="center"><img align="center" src="https://raw.githubusercontent.com/MintLily/MintLily/refs/heads/master/assets/no.svg" alt="Norsk (bokmål)" height="50" width="40" /></td>
+	</tr>
+	<tr>
+		<td align="center">English (US)</td>
+		<td align="center">Norsk (bokmål)</td>
+	</tr>
+</table>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
