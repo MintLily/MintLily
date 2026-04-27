@@ -11,7 +11,7 @@
 </p>
 
 <p>
-	🔭 I’m currently working on <a href="https://github.com/Minty-Labs/Giver-of-Head-Pats" target="_blank">Giver of Head Pats</a>, <a href="https://github.com/Minty-Labs/Michiru" target="_blank">Michiru</a>, and <a href="https://github.com/MintLily/VRStartAssistant" target="_blank">VRStartAssistant</a><br>
+	🔭 I’m currently working on <i>surviving as an adult on my own</i><br>
 	🌱 I’m currently learning <b>various home lab things</b> og norsk. Ikke spør meg hvorfor.<br>
 	👯 I’m currently collaborating on <i>nothing at the moment</i><br>
 	👨‍💻 Personal projects are available <a href="https://github.com/MintLily?tab=repositories" target="_blank">here</a>, the rest are available in the <a href="https://github.com/Minty-Labs" target="_blank">Minty Labs</a> Organization and all work-related projects <a href="https://github.com/lcromer97?tab=repositories">here</a>.<br>
