@@ -12,7 +12,7 @@
 
 <p>
 	🔭 I’m currently working on <i>surviving as an adult on my own</i><br>
-	🌱 I’m currently learning <b>various home lab things</b> og norsk. Ikke spør meg hvorfor.<br>
+	🌱 I’m currently learning <b>various home lab things</b> og norsk y español. Ikke spør meg hvorfor.<br>
 	👯 I’m currently collaborating on <i>nothing at the moment</i><br>
 	👨‍💻 Personal projects are available <a href="https://github.com/MintLily?tab=repositories" target="_blank">here</a>, the rest are available in the <a href="https://github.com/Minty-Labs" target="_blank">Minty Labs</a> Organization and all work-related projects <a href="https://github.com/lcromer97?tab=repositories">here</a>.<br>
 	📜Some notable projects: <a href="https://github.com/Minty-Labs/WindowsXSO" target="_blank">WindowsXSO</a>, <a href="https://github.com/MintLily/Dark-Vanilla" target="_blank">Dark Vanilla <small>(hiatus)</small></a>, <a href="https://github.com/MintLily/VRStartAssistant" target="_blank">VRStartAssistant</a>, <a href="https://github.com/Minty-Labs/PaperUpdater" target="_blank">PaperUpdater <small>(EOL)</small></a>, <a href="https://github.com/Minty-Labs/Unity-Tools" target="_blank">Unity Tools</a> (Snapshot, ZipImporter, <s>Animation Toggle Generator</s>), <a href="https://github.com/MintLily/BSLegacyUtil" target="_blank">BSLegacyUtil <small>(EOL)</small></a><br>
@@ -24,14 +24,17 @@
 	<tr>
 		<td align="center"><b>Main</b></td>
 		<td align="center"><b>Learning</b></td>
+		<td align="center"><b>Learning</b></td>
 	</tr>
 	<tr>
 		<td align="center"><img align="center" src="https://raw.githubusercontent.com/MintLily/MintLily/refs/heads/master/assets/us.svg" alt="English (US)" height="50" width="40" /></td>
 		<td align="center"><img align="center" src="https://raw.githubusercontent.com/MintLily/MintLily/refs/heads/master/assets/no.svg" alt="Norsk (bokmål)" height="50" width="40" /></td>
+		<td align="center"><img align="center" src="https://raw.githubusercontent.com/MintLily/MintLily/refs/heads/master/assets/mx.svg" alt="Español (MX)" height="50" width="40" /></td>
 	</tr>
 	<tr>
 		<td align="center">English (US)</td>
 		<td align="center">Norsk (bokmål)</td>
+		<td align="center">Español (MX/US)</td>
 	</tr>
 </table>
 
