@@ -3,8 +3,8 @@
 
 <p align="center">
 	<a href="https://MintLily.lgbt" target="_blank"><img alt="Main Website" src="https://img.shields.io/website?label=MintLily.lgbt&style=for-the-badge&url=https%3A%2F%2FMintLily.lgbt" /></a>
-	<a href="https://mintylabs.dev" target="_blank"><img alt="Secondary Website" src="https://img.shields.io/website?label=mintylabs.dev&style=for-the-badge&url=https%3A%2F%2Fmintylabs.dev" /></a>
-	<a href="https://mili.lgbt" target="_blank"><img alt="Carrd" src="https://img.shields.io/website?label=mili.lgbt&style=for-the-badge&url=https%3A%2F%2Fmili.lgbt" /></a>
+	<!--<a href="https://mintylabs.dev" target="_blank"><img alt="Secondary Website" src="https://img.shields.io/website?label=mintylabs.dev&style=for-the-badge&url=https%3A%2F%2Fmintylabs.dev" /></a>
+	<a href="https://mili.lgbt" target="_blank"><img alt="Carrd" src="https://img.shields.io/website?label=mili.lgbt&style=for-the-badge&url=https%3A%2F%2Fmili.lgbt" /></a>-->
 	<br>
 	<a href="https://discord.com/users/167335587488071682" target="_blank"><img alt="Discord" src="https://img.shields.io/static/v1?label=Discord&message=mintlily&style=for-the-badge&logo=appveyor&color=7289DA&logo=Discord" /></a>
 	<a href="https://mili.lgbt/pronouns/@MintLily" target="_blank"><img alt="Pronouns: she/her" src="https://img.shields.io/static/v1?label=Pronouns&message=she/her&color=E6A1FF&style=for-the-badge" /></a>
@@ -15,7 +15,7 @@
 	🌱 I’m currently learning <b>various home lab things</b> og norsk y español. Ikke spør meg hvorfor.<br>
 	👯 I’m currently collaborating on <i>nothing at the moment</i><br>
 	👨‍💻 Personal projects are available <a href="https://github.com/MintLily?tab=repositories" target="_blank">here</a>, the rest are available in the <a href="https://github.com/Minty-Labs" target="_blank">Minty Labs</a> Organization and all work-related projects <a href="https://github.com/lcromer97?tab=repositories">here</a>.<br>
-	📜Some notable projects: <a href="https://github.com/Minty-Labs/WindowsXSO" target="_blank">WindowsXSO</a>, <a href="https://github.com/MintLily/Dark-Vanilla" target="_blank">Dark Vanilla <small>(hiatus)</small></a>, <a href="https://github.com/MintLily/VRStartAssistant" target="_blank">VRStartAssistant</a>, <a href="https://github.com/Minty-Labs/PaperUpdater" target="_blank">PaperUpdater <small>(EOL)</small></a>, <a href="https://github.com/Minty-Labs/Unity-Tools" target="_blank">Unity Tools</a> (Snapshot, ZipImporter, <s>Animation Toggle Generator</s>), <a href="https://github.com/MintLily/BSLegacyUtil" target="_blank">BSLegacyUtil <small>(EOL)</small></a><br>
+	📜Some notable projects: <a href="https://github.com/Minty-Labs/WindowsXSO" target="_blank">WindowsXSO</a>, <a href="https://github.com/MintLily/Dark-Vanilla" target="_blank">Dark Vanilla <small>(hiatus)</small></a>, <a href="https://github.com/MintLily/VRStartAssistant" target="_blank">VRStartAssistant</a>, <a href="https://github.com/MintLily/BSLegacyUtil" target="_blank">BSLegacyUtil <small>(EOL)</small></a><br>
 	⚡Fun fact <b>I love head pats and cuddles</b><br>
 </p>
 
@@ -40,15 +40,17 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-	<a href="https://x.com/mintliiy?ref=GitHub%3A%20%40MintLily" target="blank">X (Twitter)</a> - <a href="https://bsky.app/profile/mintlily.lgbt?ref=GitHub%3A%20%40MintLily" target="_blank">Bluesky</a>
+	<a href="https://x.com/MynteLily?ref=GitHub%3A%20%40MintLily" target="blank">X (Twitter)</a> - <a href="https://bsky.app/profile/mintlily.lgbt?ref=GitHub%3A%20%40MintLily" target="_blank">Bluesky</a>
 </p>
 
-<h3 align="left">Virtual Asset Stores (VRChat)</h3>
-<p align="left">
-	<!--<a href="https://mintylabs.booth.pm/?ref=GitHub%3A%20%40MintLily" target="blank"><img align="center" src="https://img.mili.lgbt/booth-icon.jpg" alt="MintyLabs on Booth" height="40" width="40" /></a> -&nbsp;
-	<a href="https://jinxxy.com/MintLily?ref=GitHub%3A%20%40MintLily" target="blank"><img align="center" src="https://img.mili.lgbt/Jinxxy-icon.png" alt="MintyLabs on Jinxxy" height="40" width="40" /></a>-->
-	<a href="https://mintylabs.booth.pm?ref=GitHub%3A%20%40MintLily" target="blank">Booth</a> - <a href="https://jinxxy.com/MintLily?ref=GitHub%3A%20%40MintLily" target="blank">Jinxxy</a>
+<h3 align="left">VRChat VPM Listing</h3>
+<p>
+	<a href="https://github.com/MintLily/vrchat-vpm-listing" target="_blank">https://github.com/MintLily/vrchat-vpm-listing</a>
 </p>
+<!--<h3 align="left">Virtual Asset Stores (VRChat)</h3>
+<p align="left">
+	<a href="https://mintylabs.booth.pm?ref=GitHub%3A%20%40MintLily" target="blank">Booth</a> - <a href="https://jinxxy.com/MintLily?ref=GitHub%3A%20%40MintLily" target="blank">Jinxxy</a>
+</p>-->
 
 <h3 align="left">Programs/Tools, Languages, Operating Systems</h3>
 <p>
