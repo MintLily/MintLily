@@ -19,6 +19,13 @@
 	⚡Fun fact <b>I love head pats and cuddles</b><br>
 </p>
 
+<h3 align="left">Other Websites Built by Me</h3>
+<p>
+	<ul>
+		<li><a href="https://jasminelilith.com/" target="_blank">https://jasminelilith.com/</a></li>
+	</ul>
+</p>
+
 <h3 align="left">Languages</h3>
 <table>
 	<tr>
